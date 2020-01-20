@@ -35,8 +35,6 @@ class _AnalogClockState extends State<AnalogClock> {
   var _weekday = '';
   var _weather = '';
   var _weatherIcon = '';
-  var _tickClr;
-  var _txtClr;
   Timer _timer;
   VideoPlayerController _controller;
 
