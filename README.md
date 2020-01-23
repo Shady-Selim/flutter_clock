@@ -3,14 +3,14 @@
 Welcome to Flutter Clock!
 
 This is my first Flutter application doing it by participating in the Flutter Clock Challenge
-<img src='shady_clock/flutter_clock_Moment.jpg' width='700'>
-<img src='shady_clock/flutter_clock_Moment2.jpg' width='700'>
-<img src='shady_clock/flutter_clock_Moment3.jpg' width='700'>
-<img src='shady_clock/flutter_clock_Moment4.jpg' width='700'>
-<img src='shady_clock/flutter_clock_Moment5.jpg' width='700'>
-<img src='shady_clock/flutter_clock_Moment6.jpg' width='700'>
-<img src='shady_clock/flutter_clock_Moment7.jpg' width='700'>
-
+<img src='shady_clock/flutter_clock_old.gif' width='700'>
+<img src='shady_clock/flutter_clock_Moment.jpg' width='350'>
+<img src='shady_clock/flutter_clock_Moment2.jpg' width='350'>
+<img src='shady_clock/flutter_clock_Moment3.jpg' width='350'>
+<img src='shady_clock/flutter_clock_Moment4.jpg' width='350'>
+<img src='shady_clock/flutter_clock_Moment5.jpg' width='350'>
+<img src='shady_clock/flutter_clock_Moment6.jpg' width='350'>
+<img src='shady_clock/flutter_clock_Moment7.jpg' width='350'>
 
 -----------------------------------------------------------
 
